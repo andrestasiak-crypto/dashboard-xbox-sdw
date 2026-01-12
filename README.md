@@ -4,11 +4,10 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
-
 # 📊 Dashboard de Assinaturas Xbox Game Pass
 
 ## 📌 Visão Geral
-Este projeto foi desenvolvido para o desafio **Santander Dev Week**, contém um **dashboard em Excel** para análise das assinaturas do **Xbox Game Pass**, incluindo os planos **Core, Standard e Ultimate**, além de benefícios extras como **EA Play** e **Minecraft Season Pass**.  
+Este projeto foi desenvolvido para o desafio **Santander Dev Week** e contém um **dashboard em Excel** para análise das assinaturas do **Xbox Game Pass**, incluindo os planos **Core, Standard e Ultimate**, além de benefícios extras como **EA Play** e **Minecraft Season Pass**.  
 
 O objetivo é fornecer **KPIs e relatórios de vendas** para apoiar decisões de negócio.
 
@@ -37,10 +36,14 @@ O objetivo é fornecer **KPIs e relatórios de vendas** para apoiar decisões de
 ## 📊 Estrutura do Dashboard
 O dashboard em Excel apresenta:
 - **Cards principais**: Total de assinantes, receita total, taxa de renovação  
-- **Gráficos de distribuição**: Planos, total de receita assinaturas
-Possibilidades de incremento:
-**Ranking**: Top 5 assinantes por valor total  
-- **Linha do tempo**: Evolução mensal de assinaturas e receita acumulada  
+- **Gráficos de distribuição**: Planos e receita por tipo de assinatura  
+
+### 🔮 Possibilidades de incremento
+- Inclusão de **gráficos comparativos** entre benefícios extras (EA Play vs Minecraft)  
+- Implementação de **indicadores de churn** (cancelamentos e não-renovações)  
+- Criação de **dashboards adicionais em Power BI** para visualização interativa  
+- Integração com **pipelines ETL** para atualização automática da base  
+- Expansão para análise de **receita por região ou perfil de usuário**  
 
 ---
 
@@ -69,6 +72,8 @@ Possibilidades de incremento:
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar e adaptar.
 
+---
+
 ## 👨‍💻 Autor
 
 **André Stasiak**
@@ -78,4 +83,4 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar 
 - 📧 Email: andrestasiak@gmail.com  
 
 Apaixonado por tecnologia, dados e inteligência artificial.  
-Este projeto foi desenvolvido como parte do desafio **Santander Dev Week**, integrando **OpenAI** e adicionado o **Cohere** em um pipeline ETL resiliente e escalável.
+Este projeto foi desenvolvido como parte do desafio **Santander Dev Week**, integrando **OpenAI** e **Cohere** em um pipeline ETL resiliente e escalável.
