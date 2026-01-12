@@ -37,8 +37,9 @@ O objetivo é fornecer **KPIs e relatórios de vendas** para apoiar decisões de
 ## 📊 Estrutura do Dashboard
 O dashboard em Excel apresenta:
 - **Cards principais**: Total de assinantes, receita total, taxa de renovação  
-- **Gráficos de distribuição**: Planos, benefícios extras, uso de cupons  
-- **Ranking**: Top 5 assinantes por valor total  
+- **Gráficos de distribuição**: Planos, total de receita assinaturas
+Possibilidades de incremento:
+**Ranking**: Top 5 assinantes por valor total  
 - **Linha do tempo**: Evolução mensal de assinaturas e receita acumulada  
 
 ---
