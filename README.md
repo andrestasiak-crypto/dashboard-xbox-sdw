@@ -83,4 +83,4 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar 
 - 📧 Email: andrestasiak@gmail.com  
 
 Apaixonado por tecnologia, dados e inteligência artificial.  
-Este projeto foi desenvolvido como parte do desafio **Santander Dev Week**, integrando **OpenAI** e **Cohere** em um pipeline ETL resiliente e escalável.
+Este projeto foi desenvolvido como parte do desafio **Santander Dev Week**, utilizando **Excel** e explorando integrações futuras com **Power BI** e pipelines **ETL** escaláveis.  
